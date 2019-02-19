@@ -17,10 +17,6 @@ namespace Archivos
         /// <returns></returns>
         public bool Guardar(string archivo, string datos)
         {
-			string filePath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            filePath = filePath + "\\"+archivo; //append maybe?
-			archivo = filePath;
-
             StreamWriter sw = new StreamWriter(archivo);
             try
             {
@@ -47,10 +43,6 @@ namespace Archivos
         /// <returns></returns>
         public bool Leer(string archivo, out string datos)
         {
-			string filePath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            filePath = filePath + "\\"+archivo; //append maybe?
-			archivo = filePath;
-			
             StreamReader sr = new StreamReader(archivo);
             datos = "";
             try
