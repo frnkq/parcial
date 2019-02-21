@@ -1,0 +1,6 @@
+C:\Users\frnkq\Documents\utn\LAB\Examenes\patentesOnceAgain\patentes\20181122-SP\Alumno\Entidades\bin\Debug\Entidades.dll
+C:\Users\frnkq\Documents\utn\LAB\Examenes\patentesOnceAgain\patentes\20181122-SP\Alumno\Entidades\bin\Debug\Entidades.pdb
+C:\Users\frnkq\Documents\utn\LAB\Examenes\patentesOnceAgain\patentes\20181122-SP\Alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\frnkq\Documents\utn\LAB\Examenes\patentesOnceAgain\patentes\20181122-SP\Alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\frnkq\Documents\utn\LAB\Examenes\patentesOnceAgain\patentes\20181122-SP\Alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\frnkq\Documents\utn\LAB\Examenes\patentesOnceAgain\patentes\20181122-SP\Alumno\Entidades\obj\Debug\Entidades.pdb
